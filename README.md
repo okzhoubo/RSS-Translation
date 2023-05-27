@@ -7,7 +7,7 @@
 
 在 [test.ini](https://github.com/okzhoubo/Rss-Translation/blob/main/test.ini) 中提交以转换订阅，转换[rss to json](https://rss2json.com/)
 
-查看[ RSS-Translation ](https://okzhoubo.github.io/RSS-Translation)使用[ 教程 ](https://www.okzhoubo.net/tutorial/644)修改自[ Rss-translate ](https://github.com/rcy1314/Rss-Translation/)
+查看[ RSS-Translation ](https://okzhoubo.github.io/RSS-Translation)使用[ 教程 ](https://www.tjsky.net/tutorial/644)修改自[ Rss-translate ](https://github.com/rcy1314/Rss-Translation/)
 
 ## 已转换翻译源
 
