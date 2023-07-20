@@ -11,7 +11,7 @@
 
 ## 已转换翻译源
 
- - source001 [https://nitter.net/LetsSpeek/rss](https://nitter.net/LetsSpeek/rss) -> [Speek.rss](rss/Speek.rss)
- - source002 [https://nitter.net/MOFA_Taiwan/rss](https://nitter.net/MOFA_Taiwan/rss) -> [taiwan.rss](rss/taiwan.rss)
- - source003 [https://nitter.net/elonmusk/rss](https://nitter.net/elonmusk/rss) -> [elonmusk.rss](rss/elonmusk.rss)
- - source004 [https://nitter.net/bbcle/rss](https://nitter.net/bbcle/rss) -> [bbcle.rss](rss/bbcle.rss)
+ - source001 [https://feeds.feedburner.com/blogspot/gJZg](https://feeds.feedburner.com/blogspot/gJZg) -> [gJZg.rss](rss/gJZg.rss)
+ - source002 [https://blogs.microsoft.com/ai/feed](https://blogs.microsoft.com/ai/feed) -> [microsoft.rss](rss/microsoft.rss)
+ - source003 [https://planet.scipy.org/feed.xml](https://planet.scipy.org/feed.xml) -> [scipy.rss](rss/scipy.rss)
+ - source004 [https://www.nature.com/nature.rss](https://www.nature.com/nature.rss) -> [nature.rss](rss/nature.rss)
